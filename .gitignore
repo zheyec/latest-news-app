@@ -1,0 +1,5 @@
+app
+go.sum
+templates/news_demo.html
+templates/news_no_result.html
+.DS_Store
